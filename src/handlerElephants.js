@@ -40,4 +40,5 @@ const handlerElephants = (param) => {
 // console.log(handlerElephants(3));
 // console.log(handlerElephants('id'));
 // console.log((species[species.length - 2].name));
-// module.exports = handlerElephants;
+
+module.exports = handlerElephants;
